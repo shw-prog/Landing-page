@@ -1,0 +1,60 @@
+.top {
+    background-color: #1F2937;  
+    padding-left: 100px;
+    padding-right:100px;
+}
+
+.header {
+    display: flex;
+}
+.footer {
+    background-color: #1F2937; 
+}
+
+.grey {
+    background-color: #E5E7EB;
+}
+
+.blue {
+    background-color: #3882F6 ;
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+
+.header-sub {
+   font-size: 18px;
+   color: #E5E7EB; 
+}
+
+.links {
+    color: #E5E7EB;
+}
+h4 {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+button {
+    background-color: #3882F6;
+}
+h3 {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+}
+p .em {
+    font-size: 36px;
+    font-style: light italic;
+    color: #1F2937;
+
+}
+
+img {
+    color: white;
+}
+.white-text {
+    color: white;
+}
